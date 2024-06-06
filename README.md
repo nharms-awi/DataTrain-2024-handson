@@ -4,4 +4,10 @@ This repository is the designated place for the DataTrain-2024 Hands-On. The han
 
 The main repository is located at [nharms/DataTrain-2024](https://github.com/nharms-awi/DataTrain-2024).
 
+
+
+
+
+
+Thank you for this informative session # Added by Floriann
 Added line by AN
